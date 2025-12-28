@@ -1,3 +1,6 @@
+# Handwritten-Digit-Recognition-Using-Artificial-Neural-Networks
+Public
+
 # Problem Statement
 
 * Handwritten digits vary greatly in shape and style, making manual recognition difficult and error-prone. An automated system is required to accurately identify handwritten digits from images. The objective of this project is to develop an Artificial Neural Network (ANN) using the MNIST dataset to classify handwritten digits from 0 to 9 efficiently and accurately.
