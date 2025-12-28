@@ -1,5 +1,5 @@
 # Handwritten-Digit-Recognition-Using-Artificial-Neural-Networks
-Public
+
 
 # Problem Statement
 
